@@ -77,8 +77,3 @@ Total Loss = Classification Loss + λ × Sparsity Loss
 - Explored trade-offs between model performance and compression  
 - Observed limitations of sigmoid-based pruning methods  
 
----
-
-## ✍️ Author
-
-Your Name
